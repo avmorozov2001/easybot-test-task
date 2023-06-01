@@ -32,3 +32,6 @@ java -jar target/easybot-test-task-0.0.1-SNAPSHOT.jar
 После запуска приложение будет доступно по адресу `http://localhost:8080`.
 
 ### Готово!
+
+P.S.: Файл ``` EasyBot API TEST.postman_collection.json ``` 
+содержит коллекцию запросов для импорта в Postman
